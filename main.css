@@ -22,6 +22,11 @@ body {
   background-size: cover;
 }
 
+html,
+body {
+  overflow-x: hidden;
+}
+
 section {
   padding: 6rem;
 }
